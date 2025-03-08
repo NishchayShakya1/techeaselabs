@@ -11,7 +11,7 @@ export function HeroSection() {
             <div className="space-y-2">
               <h1 className="text-3xl font-bold tracking-tighter sm:text-5xl xl:text-6xl/none">
               Your Digital Ease{" "}
-                <span className="bg-gradient-to-r from-primary to-purple-600 bg-clip-text text-transparent">Our Innovation</span>
+                <span className="bg-gradient-to-r from-primary to-purple-600 bg-clip-text text-transparent">Our Innovatio</span>
               </h1>
               <p className="max-w-[600px] text-muted-foreground md:text-xl">
                 Simplifying technology through intuitive mobile applications that enhance your daily life.
