@@ -42,10 +42,10 @@ export function ProductsSection() {
             <Card key={product.id} className="overflow-hidden transition-all duration-200 hover:shadow-lg">
               <CardHeader className="p-0">
                 <div className="relative h-48 w-full overflow-hidden bg-muted">
-                  <Image
+                  <img
                     src={product.image || "/placeholder.svg"}
                     alt={product.name}
-                    fill
+                    
                     className="object-cover transition-transform duration-300 hover:scale-105"
                   />
                 </div>
