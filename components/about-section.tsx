@@ -62,10 +62,9 @@ export function AboutSection() {
             <Card className="overflow-hidden w-full max-w-sm">
               <CardContent className="p-0">
                 <div className="relative aspect-square overflow-hidden">
-                  <Image
+                  <img
                     src="https://raw.githubusercontent.com/NishchayShakya1/image/refs/heads/main/1740734009490.jpg"
                     alt="Nishchay Shakya"
-                    fill
                     className="object-cover"
                   />
                 </div>
