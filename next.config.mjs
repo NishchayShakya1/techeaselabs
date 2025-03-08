@@ -2,6 +2,8 @@
 const nextConfig = {
   output: 'export',
   images: {
+    loader: 'akamai',  // or use 'imgix' if preferred
+    path: '',
     remotePatterns: [
       {
         protocol: 'https',
